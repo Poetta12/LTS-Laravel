@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nom": "Reblochon",
+        "description": "Fromage au lait cru de vache, à pâte pressée non cuite, au goût fruité.",
+        "prix": 8.50,
+        "quantite": 10,
+        "poid": 0.5,
+        "categories_id": 1
+    },
+    {
+        "id": 2,
+        "nom": "Tomme de Savoie",
+        "description": "Fromage à pâte pressée non cuite, fabriqué à partir de lait cru ou pasteurisé.",
+        "prix": 7.00,
+        "quantite": 15,
+        "poid": 0.75,
+        "categories_id": 1
+    },
+    {
+        "id": 3,
+        "nom": "Diots",
+        "description": "Saucisses de porc savoyardes, souvent cuites dans du vin blanc.",
+        "prix": 12.00,
+        "quantite": 20,
+        "poid": 1.0,
+        "categories_id": 2
+    },
+    {
+        "id": 4,
+        "nom": "Vins de Savoie",
+        "description": "Sélection de vins locaux tels que la Roussette, l'Apremont ou la Mondeuse.",
+        "prix": 15.00,
+        "quantite": 30,
+        "poid": 0.75,
+        "categories_id": 3
+    },
+    {
+        "id": 5,
+        "nom": "Crozet",
+        "description": "Petites pâtes carrées traditionnelles, souvent préparées en gratin.",
+        "prix": 4.50,
+        "quantite": 50,
+        "poid": 0.5,
+        "categories_id": 4
+    },
+    {
+        "id": 6,
+        "nom": "Miel de Savoie",
+        "description": "Miel produit dans les montagnes de Savoie, au goût riche et floral.",
+        "prix": 10.00,
+        "quantite": 25,
+        "poid": 0.25,
+        "categories_id": 5
+    }
+]
